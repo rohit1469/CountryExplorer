@@ -1,0 +1,6092 @@
+[
+  {
+    "from": "Australia",
+    "to": "Brazil",
+    "visa_required": "No (for tourism)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "Canada",
+    "visa_required": "No (eTA required)",
+    "method": "Electronic Travel Authorization (eTA)",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Australia",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Embassy/Consulate",
+    "stay_duration": "30-90 days (varies by visa type)"
+  },
+  {
+    "from": "Australia",
+    "to": "Denmark",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "Finland",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "France",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "Germany",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "E-Visa / Embassy",
+    "stay_duration": "30-180 days (e-Visa)"
+  },
+  {
+    "from": "Australia",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "Italy",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "Japan",
+    "visa_required": "No (for short stays)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa-free entry",
+    "stay_duration": "180 days"
+  },
+  {
+    "from": "Australia",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "New Zealand",
+    "visa_required": "No (Special Travel Arrangement)",
+    "method": "Visa-free entry (ETA required for e-passports)",
+    "stay_duration": "Unlimited (under Trans-Tasman agreement)"
+  },
+  {
+    "from": "Australia",
+    "to": "Norway",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "E-Visa / Embassy",
+    "stay_duration": "30-90 days (e-Visa)"
+  },
+  {
+    "from": "Australia",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Embassy/Consulate",
+    "stay_duration": "Varies (usually 30 days)"
+  },
+  {
+    "from": "Australia",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "E-Visa / Visa on Arrival",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "South Korea",
+    "visa_required": "No (for short stays)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "Spain",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "Sweden",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa-free entry",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Australia",
+    "to": "Turkey",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "E-Visa",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Australia",
+    "to": "UAE",
+    "visa_required": "No (Visa on Arrival)",
+    "method": "Visa on Arrival (30 days)",
+    "stay_duration": "30 days (extendable)"
+  },
+  {
+    "from": "Australia",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa-free entry",
+    "stay_duration": "6 months"
+  },
+  {
+    "from": "Australia",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Electronic System for Travel Authorization (ESTA)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Australia",
+    "visa_required": "yes",
+    "method": "Electronic Travel Authority (ETA) online",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Canada",
+    "visa_required": "yes (eTA required)",
+    "method": "Electronic Travel Authorization (eTA) online",
+    "stay_duration": "up to 6 months"
+  },
+  {
+    "from": "Brazil",
+    "to": "China",
+    "visa_required": "yes",
+    "method": "apply at Chinese embassy/consulate",
+    "stay_duration": "30-90 days (depending on visa type)"
+  },
+  {
+    "from": "Brazil",
+    "to": "Denmark",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "Finland",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "France",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "Germany",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "India",
+    "visa_required": "yes (e-Visa available)",
+    "method": "apply for e-Visa online",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Ireland",
+    "visa_required": "no (short stays)",
+    "method": "visa-free for tourism",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Israel",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Italy",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "Japan",
+    "visa_required": "no (visa waiver program)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Mexico",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 180 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Netherlands",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "New Zealand",
+    "visa_required": "yes (NZeTA required)",
+    "method": "apply for NZeTA online",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Norway",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "Pakistan",
+    "visa_required": "yes (e-Visa available)",
+    "method": "apply for e-Visa online",
+    "stay_duration": "up to 30 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Russia",
+    "visa_required": "yes",
+    "method": "apply at Russian embassy/consulate",
+    "stay_duration": "up to 30 days (tourist visa)"
+  },
+  {
+    "from": "Brazil",
+    "to": "Saudi Arabia",
+    "visa_required": "yes (e-Visa available)",
+    "method": "apply for e-Visa online",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Singapore",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 30 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "South Africa",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "South Korea",
+    "visa_required": "no (visa waiver program)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "Spain",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "Sweden",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "Switzerland",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Brazil",
+    "to": "Turkey",
+    "visa_required": "no (e-Visa available on arrival)",
+    "method": "e-Visa online or visa on arrival",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Brazil",
+    "to": "UAE",
+    "visa_required": "no (visa on arrival)",
+    "method": "visa on arrival (30-day stay)",
+    "stay_duration": "up to 30 days (extendable)"
+  },
+  {
+    "from": "Brazil",
+    "to": "UK",
+    "visa_required": "no (short stays)",
+    "method": "visa-free for tourism",
+    "stay_duration": "up to 6 months"
+  },
+  {
+    "from": "Brazil",
+    "to": "USA",
+    "visa_required": "yes (ESTA required for VWP)",
+    "method": "apply for ESTA online (if eligible)",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Australia",
+    "visa_required": "yes (eVisitor visa)",
+    "method": "apply online (eVisitor visa)",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Brazil",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "China",
+    "visa_required": "yes",
+    "method": "apply at Chinese embassy/consulate",
+    "stay_duration": "30-90 days (depending on visa type)"
+  },
+  {
+    "from": "Canada",
+    "to": "Denmark",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "Finland",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "France",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "Germany",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "India",
+    "visa_required": "yes (e-Visa available)",
+    "method": "apply for e-Visa online",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Ireland",
+    "visa_required": "no (short stays)",
+    "method": "visa-free for tourism",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Israel",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Italy",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "Japan",
+    "visa_required": "no (visa waiver program)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Mexico",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 180 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Netherlands",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "New Zealand",
+    "visa_required": "no (NZeTA required)",
+    "method": "apply for NZeTA online (not a visa)",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Norway",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "Pakistan",
+    "visa_required": "yes (e-Visa available)",
+    "method": "apply for e-Visa online",
+    "stay_duration": "up to 30 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Russia",
+    "visa_required": "yes",
+    "method": "apply at Russian embassy/consulate",
+    "stay_duration": "up to 30 days (tourist visa)"
+  },
+  {
+    "from": "Canada",
+    "to": "Saudi Arabia",
+    "visa_required": "yes (e-Visa available)",
+    "method": "apply for e-Visa online",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Singapore",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 30 days"
+  },
+  {
+    "from": "Canada",
+    "to": "South Africa",
+    "visa_required": "no",
+    "method": "visa-free entry",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "South Korea",
+    "visa_required": "no (visa waiver program)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "Spain",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "Sweden",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "Switzerland",
+    "visa_required": "no (Schengen visa waiver)",
+    "method": "visa-free for short stays",
+    "stay_duration": "up to 90 days in 180-day period"
+  },
+  {
+    "from": "Canada",
+    "to": "Turkey",
+    "visa_required": "no (e-Visa available)",
+    "method": "apply for e-Visa online",
+    "stay_duration": "up to 90 days"
+  },
+  {
+    "from": "Canada",
+    "to": "UAE",
+    "visa_required": "no (visa on arrival)",
+    "method": "visa on arrival (30-day stay)",
+    "stay_duration": "up to 30 days (extendable)"
+  },
+  {
+    "from": "Canada",
+    "to": "UK",
+    "visa_required": "no (short stays)",
+    "method": "visa-free for tourism",
+    "stay_duration": "up to 6 months"
+  },
+  {
+    "from": "Canada",
+    "to": "USA",
+    "visa_required": "no (ESTA not required)",
+    "method": "visa-free entry (Canadian privilege)",
+    "stay_duration": "up to 6 months (at CBP discretion)"
+  },
+  {
+    "from": "China",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online through Australian Government Department of Home Affairs",
+    "stay_duration": "Up to 90 days (varies by visa type)"
+  },
+  {
+    "from": "China",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "China",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Apply through Visa Application Center",
+    "stay_duration": "Up to 180 days (at officer's discretion)"
+  },
+  {
+    "from": "China",
+    "to": "Denmark",
+    "visa_required": "Yes",
+    "method": "Apply through VFS Global Denmark Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "Finland",
+    "visa_required": "Yes",
+    "method": "Apply through VFS Global Finland Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "France",
+    "visa_required": "Yes",
+    "method": "Apply through TLScontact Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "Germany",
+    "visa_required": "Yes",
+    "method": "Apply through VisaMetric Germany Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online for e-Visa",
+    "stay_duration": "Up to 60 days (e-Tourist Visa)"
+  },
+  {
+    "from": "China",
+    "to": "Ireland",
+    "visa_required": "Yes",
+    "method": "Apply through AVATS online application",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "China",
+    "to": "Israel",
+    "visa_required": "Yes",
+    "method": "Apply through Israel Visa Application Center",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "China",
+    "to": "Italy",
+    "visa_required": "Yes",
+    "method": "Apply through VFS Global Italy Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "Japan",
+    "visa_required": "Yes", 
+    "method": "Apply through designated travel agencies or directly at embassy",
+    "stay_duration": "Up to 90 days (short-term stay)"
+  },
+  {
+    "from": "China",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required with valid US/Canada/Schengen/UK/Japan visa",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "China",
+    "to": "Netherlands",
+    "visa_required": "Yes",
+    "method": "Apply through VFS Global Netherlands Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "Apply online through Immigration New Zealand",
+    "stay_duration": "Up to 90 days (visitor visa)"
+  },
+  {
+    "from": "China",
+    "to": "Norway",
+    "visa_required": "Yes",
+    "method": "Apply through VFS Global Norway Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply online for e-Visa or at embassy",
+    "stay_duration": "Up to 30 days (e-Visa)"
+  },
+  {
+    "from": "China",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply through Russian Visa Center",
+    "stay_duration": "Up to 30 days (tourist visa)"
+  },
+  {
+    "from": "China",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply for eVisa online or at embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "China",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required for stays up to 30 days",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "China",
+    "to": "South Africa",
+    "visa_required": "Yes",
+    "method": "Apply through VFS Global South Africa Visa Application Center",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "China",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required for Jeju Island; visa required for mainland",
+    "stay_duration": "Up to 30 days (Jeju), 90 days (with visa)"
+  },
+  {
+    "from": "China",
+    "to": "Spain",
+    "visa_required": "Yes",
+    "method": "Apply through BLS Spain Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "Sweden",
+    "visa_required": "Yes",
+    "method": "Apply through VFS Global Sweden Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "Switzerland",
+    "visa_required": "Yes",
+    "method": "Apply through TLScontact Switzerland Visa Application Center",
+    "stay_duration": "Up to 90 days (Schengen visa)"
+  },
+  {
+    "from": "China",
+    "to": "Turkey",
+    "visa_required": "Yes",
+    "method": "Apply for e-Visa online",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "China",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on arrival for up to 30 days",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "China",
+    "to": "UK",
+    "visa_required": "Yes",
+    "method": "Apply online through UK Visas and Immigration",
+    "stay_duration": "Up to 180 days (standard visitor visa)"
+  },
+  {
+    "from": "China",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "Apply through US Embassy or Consulate",
+    "stay_duration": "Up to 180 days (B1/B2 visa)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Australia",
+    "visa_required": "Yes (e-visa)",
+    "method": "Apply online (ETA/eVisitor)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Brazil",
+    "visa_required": "No (for tourism)",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Canada",
+    "visa_required": "No (eTA required)",
+    "method": "Apply online (Electronic Travel Authorization)",
+    "stay_duration": 180
+  },
+  {
+    "from": "Denmark",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate",
+    "stay_duration": "30-90 (depends on visa type)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Finland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "France",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Germany",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Italy",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 180
+  },
+  {
+    "from": "Denmark",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Norway",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Denmark",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate",
+    "stay_duration": "Depends on visa"
+  },
+  {
+    "from": "Denmark",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "Spain",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Sweden",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "Denmark",
+    "to": "Turkey",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Denmark",
+    "to": "UAE",
+    "visa_required": "No (Visa on arrival)",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Denmark",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 180
+  },
+  {
+    "from": "Denmark",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Apply online (ESTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Finland",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online for eVisitor visa (subclass 651) or ETA",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Canada",
+    "visa_required": "No",
+    "method": "eTA (Electronic Travel Authorization) required",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Finland",
+    "to": "Denmark",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Up to 30-90 days (depends on visa type)"
+  },
+  {
+    "from": "Finland",
+    "to": "France",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "Germany",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply for e-Visa online",
+    "stay_duration": "Up to 60 days (e-Tourist Visa)"
+  },
+  {
+    "from": "Finland",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Italy",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Netherlands",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "New Zealand",
+    "visa_required": "No",
+    "method": "NZeTA (Electronic Travel Authority) required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Norway",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply for e-Visa online",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Up to 30 days (tourist visa)"
+  },
+  {
+    "from": "Finland",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply for eVisa online or at embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "Finland",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "Spain",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "Sweden",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "Switzerland",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Finland",
+    "to": "Turkey",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Finland",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Finland",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Finland",
+    "to": "USA",
+    "visa_required": "No",
+    "method": "ESTA (Electronic System for Travel Authorization) required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "France",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor visa)",
+    "method": "Apply online (eVisitor or ETA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Brazil",
+    "visa_required": "No (for tourism)",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Canada",
+    "visa_required": "No (eTA required)",
+    "method": "Apply online (Electronic Travel Authorization)",
+    "stay_duration": 180
+  },
+  {
+    "from": "France",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate",
+    "stay_duration": "30-90 (depends on visa type)"
+  },
+  {
+    "from": "France",
+    "to": "Finland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "Denmark",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "Germany",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Italy",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 180
+  },
+  {
+    "from": "France",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Norway",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "France",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate",
+    "stay_duration": "Depends on visa"
+  },
+  {
+    "from": "France",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "Spain",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "Sweden",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa-free",
+    "stay_duration": "Unlimited (Schengen)"
+  },
+  {
+    "from": "France",
+    "to": "Turkey",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "France",
+    "to": "UAE",
+    "visa_required": "No (Visa on arrival)",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": 30
+  },
+  {
+    "from": "France",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": 180
+  },
+  {
+    "from": "France",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Apply online (ESTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Germany",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online for eVisitor visa (subclass 651)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Canada",
+    "visa_required": "No",
+    "method": "eTA (Electronic Travel Authorization) required",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Germany",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Up to 30-90 days (depends on visa type)"
+  },
+  {
+    "from": "Germany",
+    "to": "Finland",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "Denmark",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "France",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply for e-Visa online",
+    "stay_duration": "Up to 60 days (e-Tourist Visa)"
+  },
+  {
+    "from": "Germany",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Italy",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Netherlands",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "New Zealand",
+    "visa_required": "No",
+    "method": "NZeTA (Electronic Travel Authority) required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Norway",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply for e-Visa online",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Up to 30 days (tourist visa)"
+  },
+  {
+    "from": "Germany",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply for eVisa online or at embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "Germany",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "Spain",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "Sweden",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "Switzerland",
+    "visa_required": "No",
+    "method": "Freedom of movement (EU/EEA)",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Germany",
+    "to": "Turkey",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Germany",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Germany",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Germany",
+    "to": "USA",
+    "visa_required": "No",
+    "method": "ESTA (Electronic System for Travel Authorization) required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "India",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Australian Embassy/Consulate",
+    "stay_duration": "Up to 90 days (varies by visa type)"
+  },
+  {
+    "from": "India",
+    "to": "Brazil",
+    "visa_required": "No (until further notice)",
+    "method": "Visa-free for tourism (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "India",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Apply online or at Visa Application Centre (VAC)",
+    "stay_duration": "Up to 6 months (varies by visa)"
+  },
+  {
+    "from": "India",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese Embassy/Consulate",
+    "stay_duration": "30-90 days (depends on visa type)"
+  },
+  {
+    "from": "India",
+    "to": "Finland",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Finnish Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Denmark",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Danish Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "France",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or French Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Germany",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or German Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Ireland",
+    "visa_required": "Yes",
+    "method": "Apply online or at Irish Embassy/VAC",
+    "stay_duration": "Up to 90 days (varies by visa)"
+  },
+  {
+    "from": "India",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa-free entry",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "India",
+    "to": "Italy",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Italian Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Japan",
+    "visa_required": "Yes",
+    "method": "Apply at Japanese Embassy/VAC (e-Visa for tourism)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "India",
+    "to": "Mexico",
+    "visa_required": "No (if holding valid US/Canada/Schengen/UK visa)",
+    "method": "Visa-free or apply at Mexican Embassy",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Netherlands",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Dutch Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at VAC",
+    "stay_duration": "Up to 90 days (varies by visa)"
+  },
+  {
+    "from": "India",
+    "to": "Norway",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Norwegian Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply at Pakistani Embassy (strict regulations)",
+    "stay_duration": "Varies (usually 30 days)"
+  },
+  {
+    "from": "India",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian Embassy/VAC (e-Visa for select regions)",
+    "stay_duration": "Up to 16 days (e-Visa) or longer with regular visa"
+  },
+  {
+    "from": "India",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "India",
+    "to": "Singapore",
+    "visa_required": "No (for short stays)",
+    "method": "Visa-free entry (30 days)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "India",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa-free (up to 90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "India",
+    "to": "South Korea",
+    "visa_required": "No (for short tourism)",
+    "method": "Visa-free (up to 90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "India",
+    "to": "Spain",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Spanish Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Sweden",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Swedish Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Switzerland",
+    "visa_required": "Yes (Schengen Visa)",
+    "method": "Apply at VFS Global or Swiss Embassy",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "India",
+    "to": "Turkey",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa)",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "India",
+    "to": "UAE",
+    "visa_required": "Yes",
+    "method": "Visa on arrival (14 days) or pre-arranged eVisa (30/90 days)",
+    "stay_duration": "14-90 days (depends on visa type)"
+  },
+  {
+    "from": "India",
+    "to": "UK",
+    "visa_required": "Yes",
+    "method": "Apply online or at VAC",
+    "stay_duration": "Up to 6 months (standard visitor visa)"
+  },
+  {
+    "from": "India",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "Apply at US Embassy/VAC (B1/B2 visa)",
+    "stay_duration": "Up to 6 months (varies by officer's discretion)"
+  },
+  {
+    "from": "Ireland",
+    "to": "Australia",
+    "visa_required": "Yes (Electronic Travel Authority - ETA)",
+    "method": "Apply online (ETA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "Brazil",
+    "visa_required": "No (for tourism up to 90 days)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "Canada",
+    "visa_required": "No (eTA required for air travel)",
+    "method": "Apply online (Electronic Travel Authorization - eTA)",
+    "stay_duration": 180
+  },
+  {
+    "from": "Ireland",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Varies (typically 30-90 days)"
+  },
+  {
+    "from": "Ireland",
+    "to": "Finland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "Denmark",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "France",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Ireland",
+    "to": "Germany",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "Italy",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "Japan",
+    "visa_required": "No (for short stays)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "Ireland",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "Norway",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online or at embassy",
+    "stay_duration": "Varies (typically 30 days)"
+  },
+  {
+    "from": "Ireland",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Varies (typically 30 days)"
+  },
+  {
+    "from": "Ireland",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "South Korea",
+    "visa_required": "No (for short stays)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "Spain",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "Sweden",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Ireland",
+    "to": "Turkey",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Ireland",
+    "to": "UAE",
+    "visa_required": "No (visa on arrival)",
+    "method": "Visa on arrival",
+    "stay_duration": 30
+  },
+  {
+    "from": "Ireland",
+    "to": "UK",
+    "visa_required": "No (Common Travel Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "Ireland",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Apply online (ESTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor visa)",
+    "method": "Apply online (eVisitor)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Brazil",
+    "visa_required": "No (for tourism up to 90 days)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Apply online or at embassy",
+    "stay_duration": "Varies (typically up to 6 months)"
+  },
+  {
+    "from": "Israel",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Varies (typically 30-90 days)"
+  },
+  {
+    "from": "Israel",
+    "to": "Finland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "Denmark",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "France",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Israel",
+    "to": "Germany",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Italy",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "Japan",
+    "visa_required": "No (for short stays)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "Israel",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "New Zealand",
+    "visa_required": "Yes (NZeTA required)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Norway",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply at embassy",
+    "stay_duration": "Varies (typically 30 days)"
+  },
+  {
+    "from": "Israel",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Varies (typically 30 days)"
+  },
+  {
+    "from": "Israel",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "South Korea",
+    "visa_required": "No (for short stays)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "Spain",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "Sweden",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "Israel",
+    "to": "Turkey",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Israel",
+    "to": "UAE",
+    "visa_required": "No (visa on arrival)",
+    "method": "Visa on arrival",
+    "stay_duration": 30
+  },
+  {
+    "from": "Israel",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "Israel",
+    "to": "USA",
+    "visa_required": "Yes (ESTA eligible)",
+    "method": "Apply online (ESTA) or embassy visa",
+    "stay_duration": 90
+  },
+  {
+    "from": "Italy",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor visa)",
+    "method": "Apply online (ETA/eVisitor)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Canada",
+    "visa_required": "No (eTA required)",
+    "method": "Electronic Travel Authorization (eTA) online",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Italy",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese Embassy/Consulate",
+    "stay_duration": "30-90 days (depends on visa)"
+  },
+  {
+    "from": "Italy",
+    "to": "Finland",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "Denmark",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "France",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Embassy",
+    "stay_duration": "30-90 days (eTourist visa)"
+  },
+  {
+    "from": "Italy",
+    "to": "Germany",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa-free (CTA agreement)",
+    "stay_duration": "Unlimited (EU/CTA rights)"
+  },
+  {
+    "from": "Italy",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Japan",
+    "visa_required": "No (short stays)",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa-free (180 days)",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required)",
+    "method": "Electronic Travel Authority (NZeTA) online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Norway",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply at Embassy or eVisa (tourism)",
+    "stay_duration": "30-90 days (varies by visa)"
+  },
+  {
+    "from": "Italy",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian Embassy/Consulate",
+    "stay_duration": "Up to 30 days (e-Visa for tourism)"
+  },
+  {
+    "from": "Italy",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa available)",
+    "method": "Apply online or at Embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "Spain",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "Sweden",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Italy",
+    "to": "Turkey",
+    "visa_required": "No (e-Visa available)",
+    "method": "Visa-free or apply online (e-Visa for longer stays)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Italy",
+    "to": "UAE",
+    "visa_required": "No (Visa on Arrival)",
+    "method": "Visa on arrival (30 days, extendable)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Italy",
+    "to": "UK",
+    "visa_required": "No (for short stays)",
+    "method": "Visa-free (6 months for tourism)",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Italy",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Electronic System for Travel Authorization (ESTA) online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Australia",
+    "visa_required": "Yes (ETA/eVisitor)",
+    "method": "Apply online (ETA/eVisitor)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Canada",
+    "visa_required": "Yes (eTA)",
+    "method": "Apply online (eTA)",
+    "stay_duration": "6 months"
+  },
+  {
+    "from": "Japan",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "30 days (varies by visa type)"
+  },
+  {
+    "from": "Japan",
+    "to": "Finland",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "Denmark",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "France",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "India",
+    "visa_required": "Yes (e-Visa)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": "30/60/180 days (varies)"
+  },
+  {
+    "from": "Japan",
+    "to": "Germany",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Italy",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "180 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "New Zealand",
+    "visa_required": "Yes (NZeTA)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Norway",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": "30 days (varies)"
+  },
+  {
+    "from": "Japan",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Varies by visa type"
+  },
+  {
+    "from": "Japan",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa/On Arrival)",
+    "method": "Apply online or visa on arrival",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "30 days"
+  },
+  {
+    "from": "Japan",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "Spain",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "Sweden",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Japan",
+    "to": "Turkey",
+    "visa_required": "Yes (eVisa)",
+    "method": "Apply online (eVisa)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Japan",
+    "to": "UAE",
+    "visa_required": "No (Visa on arrival)",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": "30 days (extendable)"
+  },
+  {
+    "from": "Japan",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "6 months"
+  },
+  {
+    "from": "Japan",
+    "to": "USA",
+    "visa_required": "Yes (ESTA)",
+    "method": "Apply online (ESTA for VWP)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor/ETA)",
+    "method": "Apply online (eVisitor/ETA)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Canada",
+    "visa_required": "Yes (TRV or eTA if flying)",
+    "method": "Apply online (eTA) or at embassy (TRV)",
+    "stay_duration": "6 months (varies)"
+  },
+  {
+    "from": "Mexico",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "30-90 days (varies by visa)"
+  },
+  {
+    "from": "Mexico",
+    "to": "Finland",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "Denmark",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "France",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "India",
+    "visa_required": "Yes (e-Visa)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": "60 days (e-Tourist Visa)"
+  },
+  {
+    "from": "Mexico",
+    "to": "Germany",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Italy",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Japan",
+    "visa_required": "No (Short stays)",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "New Zealand",
+    "visa_required": "Yes (NZeTA)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Norway",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa/Embassy)",
+    "method": "Apply online (e-Visa) or at embassy",
+    "stay_duration": "30-90 days (varies)"
+  },
+  {
+    "from": "Mexico",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Varies by visa type"
+  },
+  {
+    "from": "Mexico",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa/On Arrival)",
+    "method": "Apply online or visa on arrival",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "30 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "Spain",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "Sweden",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "Mexico",
+    "to": "Turkey",
+    "visa_required": "No (e-Visa available)",
+    "method": "Visa not required (or e-Visa optional)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "Mexico",
+    "to": "UAE",
+    "visa_required": "No (Visa on arrival)",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": "30 days (extendable)"
+  },
+  {
+    "from": "Mexico",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "6 months"
+  },
+  {
+    "from": "Mexico",
+    "to": "USA",
+    "visa_required": "Yes (B1/B2 Visa)",
+    "method": "Apply at US embassy/consulate",
+    "stay_duration": "Up to 6 months (varies)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor visa)",
+    "method": "Apply online (ETA/eVisitor)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Canada",
+    "visa_required": "No (eTA required)",
+    "method": "Electronic Travel Authorization (eTA) online",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Netherlands",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese Embassy/Consulate",
+    "stay_duration": "30-90 days (depends on visa)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Finland",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Denmark",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "France",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Embassy",
+    "stay_duration": "30-90 days (eTourist visa)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Germany",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa-free (CTA agreement)",
+    "stay_duration": "Unlimited (EU/CTA rights)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Italy",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Japan",
+    "visa_required": "No (short stays)",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa-free (180 days)",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required)",
+    "method": "Electronic Travel Authority (NZeTA) online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Norway",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply at Embassy or eVisa (tourism)",
+    "stay_duration": "30-90 days (varies by visa)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian Embassy/Consulate",
+    "stay_duration": "Up to 30 days (e-Visa for tourism)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa available)",
+    "method": "Apply online or at Embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa-free (90 days)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Spain",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Sweden",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen Zone)",
+    "method": "Visa-free (unlimited stay for EU citizens)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "Turkey",
+    "visa_required": "No (e-Visa available)",
+    "method": "Visa-free or apply online (e-Visa for longer stays)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Netherlands",
+    "to": "UAE",
+    "visa_required": "No (Visa on Arrival)",
+    "method": "Visa on arrival (30 days, extendable)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Netherlands",
+    "to": "UK",
+    "visa_required": "No (for short stays)",
+    "method": "Visa-free (6 months for tourism)",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Netherlands",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Electronic System for Travel Authorization (ESTA) online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Australia",
+    "visa_required": "Yes (Electronic Travel Authority - ETA)",
+    "method": "Apply online (ETA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "Brazil",
+    "visa_required": "No (for tourism up to 90 days)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "Canada",
+    "visa_required": "No (eTA required for air travel)",
+    "method": "Apply online (Electronic Travel Authorization - eTA)",
+    "stay_duration": 180
+  },
+  {
+    "from": "New Zealand",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Varies (typically 30-90 days)"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Finland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Denmark",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "France",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "New Zealand",
+    "to": "Germany",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "Italy",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "New Zealand",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Japan",
+    "visa_required": "No (for short stays)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "Norway",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online or at embassy",
+    "stay_duration": "Varies (typically 30 days)"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Varies (typically 30 days)"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "South Korea",
+    "visa_required": "No (for short stays)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "Spain",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Sweden",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "90/180 days"
+  },
+  {
+    "from": "New Zealand",
+    "to": "Turkey",
+    "visa_required": "No (for short stays)",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "New Zealand",
+    "to": "UAE",
+    "visa_required": "No (visa on arrival)",
+    "method": "Visa on arrival",
+    "stay_duration": 30
+  },
+  {
+    "from": "New Zealand",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "New Zealand",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Apply online (ESTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "Australia",
+    "visa_required": "Yes (ETA/eVisitor)",
+    "method": "Online application",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "Canada",
+    "visa_required": "Yes (ETA)",
+    "method": "Online application",
+    "stay_duration": 180
+  },
+  {
+    "from": "Norway",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Embassy/Consulate application",
+    "stay_duration": 30
+  },
+  {
+    "from": "Norway",
+    "to": "Finland",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Denmark",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "France",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "India",
+    "visa_required": "Yes (eVisa)",
+    "method": "Online application",
+    "stay_duration": 30
+  },
+  {
+    "from": "Norway",
+    "to": "Germany",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required (CTA)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Italy",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "Norway",
+    "to": "Netherlands",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "New Zealand",
+    "visa_required": "Yes (NZeTA)",
+    "method": "Online application",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Online/Embassy application",
+    "stay_duration": 30
+  },
+  {
+    "from": "Norway",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Embassy application",
+    "stay_duration": 30
+  },
+  {
+    "from": "Norway",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa)",
+    "method": "Online application",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "Spain",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Sweden",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Switzerland",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen)",
+    "stay_duration": "Unlimited (EU/EEA)"
+  },
+  {
+    "from": "Norway",
+    "to": "Turkey",
+    "visa_required": "Yes (eVisa)",
+    "method": "Online application",
+    "stay_duration": 90
+  },
+  {
+    "from": "Norway",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on arrival",
+    "stay_duration": 30
+  },
+  {
+    "from": "Norway",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "Norway",
+    "to": "USA",
+    "visa_required": "Yes (ESTA)",
+    "method": "Online application",
+    "stay_duration": 90
+  },
+  {
+    "from": "Pakistan",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online via Australian Government Home Affairs website",
+    "stay_duration": "Depends on visa type (Tourist visas usually up to 3 months)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Brazil",
+    "visa_required": "Yes (until 2024, Brazil plans to reintroduce visa requirements for Pakistan)",
+    "method": "Apply at Brazilian consulate",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Online application or via VAC (Visa Application Center)",
+    "stay_duration": "Up to 6 months (varies)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "30-90 days (depends on visa type)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Finland",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Finnish consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Denmark",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Danish consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "France",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or French consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online (e-Visa) or at Indian embassy",
+    "stay_duration": "30-90 days (e-Visa)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Germany",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or German consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Ireland",
+    "visa_required": "Yes",
+    "method": "Apply online via AVATS (Irish Immigration)",
+    "stay_duration": "Up to 90 days (varies)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Italy",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Italian consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Israel",
+    "visa_required": "Yes",
+    "method": "Apply at Israeli embassy (special clearance needed for Pakistani passport holders)",
+    "stay_duration": "Varies (rarely granted)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Mexico",
+    "visa_required": "Yes",
+    "method": "Apply at Mexican embassy",
+    "stay_duration": "Up to 180 days (if approved)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Netherlands",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Dutch consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Japan",
+    "visa_required": "Yes",
+    "method": "Apply at Japanese embassy/consulate",
+    "stay_duration": "Up to 90 days (if approved)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "Online application (NZ Immigration)",
+    "stay_duration": "Up to 3 months (visitor visa)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Norway",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Norwegian consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate (invitation required)",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply online (e-Visa) or via embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Singapore",
+    "visa_required": "Yes",
+    "method": "Apply via authorized agents or online (if eligible)",
+    "stay_duration": "Up to 30 days (if approved)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "South Africa",
+    "visa_required": "Yes",
+    "method": "Apply at South African embassy/consulate",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Pakistan",
+    "to": "South Korea",
+    "visa_required": "Yes",
+    "method": "Apply at Korean embassy/consulate",
+    "stay_duration": "Up to 90 days (if approved)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Spain",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Spanish consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Sweden",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Swedish consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Switzerland",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply via VFS Global or Swiss consulate",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Pakistan",
+    "to": "Turkey",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa) before travel",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "Pakistan",
+    "to": "UAE",
+    "visa_required": "Yes",
+    "method": "Apply online (e-Visa) or via sponsor",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "UK",
+    "visa_required": "Yes",
+    "method": "Online application via UKVI",
+    "stay_duration": "Up to 6 months (standard visitor visa)"
+  },
+  {
+    "from": "Pakistan",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "Apply via US embassy/consulate (interview required)",
+    "stay_duration": "Up to 6 months (B1/B2 visa)"
+  },
+  {
+    "from": "Russia",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisitor or Visitor Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required for tourism (90 days)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Apply online or at embassy (Visitor Visa)",
+    "stay_duration": 180
+  },
+  {
+    "from": "Russia",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate (Tourist Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Russia",
+    "to": "Finland",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Denmark",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "France",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 60
+  },
+  {
+    "from": "Russia",
+    "to": "Germany",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Ireland",
+    "visa_required": "Yes",
+    "method": "Apply at embassy (Short-Stay Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Italy",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required (90 days)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required (180 days)",
+    "stay_duration": 180
+  },
+  {
+    "from": "Russia",
+    "to": "Netherlands",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Japan",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate (Tourist Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "Apply online (Visitor Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Norway",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Russia",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply online (Tourist eVisa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required (30 days)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Russia",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required (90 days)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required (60 days)",
+    "stay_duration": 60
+  },
+  {
+    "from": "Russia",
+    "to": "Spain",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Sweden",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Switzerland",
+    "visa_required": "Yes",
+    "method": "Schengen Visa (Apply at embassy/VFS)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Russia",
+    "to": "Turkey",
+    "visa_required": "No",
+    "method": "Visa not required (60 days)",
+    "stay_duration": 60
+  },
+  {
+    "from": "Russia",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Russia",
+    "to": "UK",
+    "visa_required": "Yes",
+    "method": "Apply online (Standard Visitor Visa)",
+    "stay_duration": 180
+  },
+  {
+    "from": "Russia",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "Apply at embassy (B1/B2 Visa)",
+    "stay_duration": 180
+  },
+    {
+      "from": "Saudi Arabia",
+      "to": "Australia",
+      "visa_required": "Yes",
+      "method": "Apply online (eVisa) or at Australian embassy/consulate",
+      "stay_duration": "Up to 90 days (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Brazil",
+      "visa_required": "No (for tourism up to 90 days)",
+      "method": "Visa not required",
+      "stay_duration": "90 days"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Canada",
+      "visa_required": "Yes",
+      "method": "Apply online or at Canadian embassy/consulate",
+      "stay_duration": "Up to 6 months (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "China",
+      "visa_required": "Yes",
+      "method": "Apply at Chinese embassy/consulate",
+      "stay_duration": "30-90 days (depends on visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Finland",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Finnish embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Denmark",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Danish embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "France",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at French embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "India",
+      "visa_required": "Yes",
+      "method": "eVisa available or apply at Indian embassy/consulate",
+      "stay_duration": "30-90 days (depends on visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Germany",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at German embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Ireland",
+      "visa_required": "Yes",
+      "method": "Apply at Irish embassy/consulate",
+      "stay_duration": "Up to 90 days (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Italy",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Italian embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Israel",
+      "visa_required": "Yes",
+      "method": "Apply at Israeli embassy/consulate",
+      "stay_duration": "Up to 90 days (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Mexico",
+      "visa_required": "No (for tourism up to 180 days)",
+      "method": "Visa not required",
+      "stay_duration": "180 days"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Netherlands",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Dutch embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Japan",
+      "visa_required": "Yes",
+      "method": "Apply at Japanese embassy/consulate",
+      "stay_duration": "Up to 90 days (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "New Zealand",
+      "visa_required": "Yes",
+      "method": "Apply online (NZeTA) or at New Zealand embassy/consulate",
+      "stay_duration": "Up to 90 days (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Norway",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Norwegian embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Pakistan",
+      "visa_required": "Yes",
+      "method": "eVisa available or apply at Pakistani embassy/consulate",
+      "stay_duration": "30-90 days (depends on visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Russia",
+      "visa_required": "Yes",
+      "method": "Apply at Russian embassy/consulate",
+      "stay_duration": "Up to 30 days (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Singapore",
+      "visa_required": "No (for tourism up to 30 days)",
+      "method": "Visa not required",
+      "stay_duration": "30 days"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "South Africa",
+      "visa_required": "No (for tourism up to 90 days)",
+      "method": "Visa not required",
+      "stay_duration": "90 days"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "South Korea",
+      "visa_required": "No (for tourism up to 30 or 90 days)",
+      "method": "Visa not required (K-ETA may be required)",
+      "stay_duration": "30-90 days"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Spain",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Spanish embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Sweden",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Swedish embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Switzerland",
+      "visa_required": "Yes (Schengen visa)",
+      "method": "Apply at Swiss embassy/consulate or VFS Global",
+      "stay_duration": "Up to 90 days (within 180-day period)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "Turkey",
+      "visa_required": "Yes (eVisa available)",
+      "method": "Apply online (eVisa) or at Turkish embassy/consulate",
+      "stay_duration": "Up to 90 days"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "UAE",
+      "visa_required": "No (GCC residency allows visa on arrival)",
+      "method": "Visa on arrival (for residents) or visa-free for citizens",
+      "stay_duration": "30-90 days"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "UK",
+      "visa_required": "Yes",
+      "method": "Apply online or at UK embassy/consulate",
+      "stay_duration": "Up to 6 months (varies by visa type)"
+    },
+    {
+      "from": "Saudi Arabia",
+      "to": "USA",
+      "visa_required": "Yes",
+      "method": "Apply at US embassy/consulate (B1/B2 visa)",
+      "stay_duration": "Up to 6 months (varies by visa type)"
+    },
+  {
+    "from": "Singapore",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor visa)",
+    "method": "Apply online (ETA or eVisitor)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "Brazil",
+    "visa_required": "No (Visa-free until 2025)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "Canada",
+    "visa_required": "No (eTA required)",
+    "method": "Electronic Travel Authorization (eTA) online",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Singapore",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "30-90 days (depends on visa)"
+  },
+  {
+    "from": "Singapore",
+    "to": "Finland",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Denmark",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "France",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": "30-90 days (e-Visa)"
+  },
+  {
+    "from": "Singapore",
+    "to": "Germany",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "Italy",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required)",
+    "method": "Electronic Travel Authority (NZeTA) online",
+    "stay_duration": "Up to 3 months"
+  },
+  {
+    "from": "Singapore",
+    "to": "Norway",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa) or embassy",
+    "stay_duration": "Up to 30 days (e-Visa)"
+  },
+  {
+    "from": "Singapore",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Up to 30 days (if approved)"
+  },
+  {
+    "from": "Singapore",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "Spain",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Sweden",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen visa-free)",
+    "method": "Visa-free",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "Singapore",
+    "to": "Turkey",
+    "visa_required": "No (e-Visa available)",
+    "method": "Optional e-Visa online (or visa-free entry)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Singapore",
+    "to": "UAE",
+    "visa_required": "No (Visa on arrival)",
+    "method": "Visa-free (30-day stamp on arrival)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Singapore",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa-free",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Singapore",
+    "to": "USA",
+    "visa_required": "No (ESTA required)",
+    "method": "Electronic System for Travel Authorization (ESTA) online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Australian embassy/consulate",
+    "stay_duration": "Up to 90 days (varies by visa type)"
+  },
+  {
+    "from": "South Africa",
+    "to": "Brazil",
+    "visa_required": "No (for tourism up to 90 days)",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Apply online or at Canadian visa office",
+    "stay_duration": "Up to 6 months (at officer's discretion)"
+  },
+  {
+    "from": "South Africa",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "30 days (varies by visa type)"
+  },
+  {
+    "from": "South Africa",
+    "to": "Finland",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Finnish embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Denmark",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Danish embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "France",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at French embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Indian embassy",
+    "stay_duration": "30/60/180 days (depends on eVisa type)"
+  },
+  {
+    "from": "South Africa",
+    "to": "Germany",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at German embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Ireland",
+    "visa_required": "Yes",
+    "method": "Apply at Irish embassy/consulate or AVATS online",
+    "stay_duration": "90 days (varies by visa type)"
+  },
+  {
+    "from": "South Africa",
+    "to": "Italy",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Italian embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": "180 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "Netherlands",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Dutch embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Japan",
+    "visa_required": "Yes",
+    "method": "Apply at Japanese embassy/consulate",
+    "stay_duration": "Up to 90 days (varies by visa type)"
+  },
+  {
+    "from": "South Africa",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "Apply online (NZeTA) or at NZ embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "Norway",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Norwegian embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply online or at Pakistani embassy",
+    "stay_duration": "30 days (eVisa)"
+  },
+  {
+    "from": "South Africa",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Up to 30 days (varies by visa type)"
+  },
+  {
+    "from": "South Africa",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at embassy",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "30 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "South Korea",
+    "visa_required": "No (for tourism up to 30 days)",
+    "method": "Visa not required",
+    "stay_duration": "30 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "Spain",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Spanish embassy/consulate or BLS International",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Sweden",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Swedish embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Switzerland",
+    "visa_required": "Yes (Schengen visa)",
+    "method": "Apply at Swiss embassy/consulate or VFS Global",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Africa",
+    "to": "Turkey",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa)",
+    "stay_duration": "30 days"
+  },
+  {
+    "from": "South Africa",
+    "to": "UAE",
+    "visa_required": "Yes",
+    "method": "Visa on arrival (30 days) or apply in advance",
+    "stay_duration": "30 days (extendable)"
+  },
+  {
+    "from": "South Africa",
+    "to": "UK",
+    "visa_required": "Yes",
+    "method": "Apply online or at UK visa application center",
+    "stay_duration": "Up to 6 months (varies by visa type)"
+  },
+  {
+    "from": "South Africa",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "Apply at US embassy/consulate",
+    "stay_duration": "Up to 6 months (at CBP officer's discretion)"
+  },
+  {
+    "from": "South Korea",
+    "to": "Australia",
+    "visa_required": "Yes (ETA/eVisitor)",
+    "method": "Apply online (Electronic Travel Authority)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Canada",
+    "visa_required": "Yes (eTA)",
+    "method": "Apply online (Electronic Travel Authorization)",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "South Korea",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "30-90 days (depends on visa type)"
+  },
+  {
+    "from": "South Korea",
+    "to": "Finland",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Denmark",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "France",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "India",
+    "visa_required": "Yes (eVisa available)",
+    "method": "Apply online (eVisa) or at embassy",
+    "stay_duration": "30/60/180 days (depends on visa type)"
+  },
+  {
+    "from": "South Korea",
+    "to": "Germany",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Italy",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "180 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required for air travel)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Norway",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Pakistan",
+    "visa_required": "Yes (eVisa available)",
+    "method": "Apply online (eVisa) or at embassy",
+    "stay_duration": "30 days (eVisa)"
+  },
+  {
+    "from": "South Korea",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Up to 30 days (varies by visa type)"
+  },
+  {
+    "from": "South Korea",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa available)",
+    "method": "Apply online (eVisa) or at embassy",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "30 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "Spain",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Sweden",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen visa waiver)",
+    "method": "Visa not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "South Korea",
+    "to": "Turkey",
+    "visa_required": "No (eVisa available on arrival)",
+    "method": "eVisa online or visa on arrival",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "South Korea",
+    "to": "UAE",
+    "visa_required": "No (Visa on arrival)",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": "30 days (extendable)"
+  },
+  {
+    "from": "South Korea",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "6 months"
+  },
+  {
+    "from": "South Korea",
+    "to": "USA",
+    "visa_required": "Yes (ESTA for short visits)",
+    "method": "Apply online (ESTA) or at US embassy",
+    "stay_duration": "90 days (under Visa Waiver Program)"
+  },
+  {
+    "from": "Spain",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Electronic Travel Authority (ETA) or eVisitor visa online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "Brazil",
+    "visa_required": "No (for tourism up to 90 days)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "Canada",
+    "visa_required": "Yes (eTA required for air travel)",
+    "method": "Electronic Travel Authorization (eTA) online",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Spain",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Depends on visa type (usually 30-90 days)"
+  },
+  {
+    "from": "Spain",
+    "to": "Finland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "Denmark",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "France",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "eVisa online or embassy application",
+    "stay_duration": "Up to 90 days (eVisa)"
+  },
+  {
+    "from": "Spain",
+    "to": "Germany",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "Italy",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "Spain",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "New Zealand",
+    "visa_required": "Yes (NZeTA)",
+    "method": "Electronic Travel Authority (NZeTA) online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "Norway",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "eVisa or embassy application",
+    "stay_duration": "Depends on visa type (usually 30-90 days)"
+  },
+  {
+    "from": "Spain",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Depends on visa type"
+  },
+  {
+    "from": "Spain",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa available for tourism)",
+    "method": "eVisa online or embassy application",
+    "stay_duration": "Up to 90 days (eVisa)"
+  },
+  {
+    "from": "Spain",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "Sweden",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (Schengen member)"
+  },
+  {
+    "from": "Spain",
+    "to": "Turkey",
+    "visa_required": "Yes (eVisa)",
+    "method": "eVisa online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Spain",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on arrival (30 days)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Spain",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Spain",
+    "to": "USA",
+    "visa_required": "Yes (ESTA for VWP)",
+    "method": "Electronic System for Travel Authorization (ESTA) online",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Sweden",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Electronic Travel Authority (ETA) online",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Electronic Travel Authorization (eTA) online",
+    "stay_duration": 180
+  },
+  {
+    "from": "Sweden",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": 30
+  },
+  {
+    "from": "Sweden",
+    "to": "Finland",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "Denmark",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "France",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "eVisa online or embassy application",
+    "stay_duration": 30
+  },
+  {
+    "from": "Sweden",
+    "to": "Germany",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required (EU/EEA)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "Italy",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": 180
+  },
+  {
+    "from": "Sweden",
+    "to": "Netherlands",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required for short stays",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "NZeTA (Electronic Travel Authority) online",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "Norway",
+    "visa_required": "No",
+    "method": "Nordic Passport Union (no border control)",
+    "stay_duration": "Unlimited (EU/EEA freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "eVisa or embassy application",
+    "stay_duration": 30
+  },
+  {
+    "from": "Sweden",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": 30
+  },
+  {
+    "from": "Sweden",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "eVisa or visa on arrival (conditions apply)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "Spain",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required for short stays",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "Switzerland",
+    "visa_required": "No",
+    "method": "Schengen area (no border control)",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Sweden",
+    "to": "Turkey",
+    "visa_required": "Yes",
+    "method": "eVisa online",
+    "stay_duration": 90
+  },
+  {
+    "from": "Sweden",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on arrival (30-day stay)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Sweden",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required for short stays",
+    "stay_duration": 180
+  },
+  {
+    "from": "Sweden",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "ESTA (Visa Waiver Program) online",
+    "stay_duration": 90
+  },
+  {
+    "from": "Switzerland",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor/eVisa)",
+    "method": "Apply online (eVisitor or Tourist eVisa)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Canada",
+    "visa_required": "Yes (eTA)",
+    "method": "Apply online (Electronic Travel Authorization)",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Switzerland",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Depends on visa type (typically 30-90 days)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Finland",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Denmark",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "France",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "India",
+    "visa_required": "Yes (eVisa)",
+    "method": "Apply online (e-Tourist Visa)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Germany",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Italy",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "New Zealand",
+    "visa_required": "Yes (NZeTA)",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Norway",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate or online (eVisa)",
+    "stay_duration": "Up to 30 days (eVisa)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Depends on visa type (typically 30 days)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (eVisa/Visa on Arrival)",
+    "method": "Apply online or Visa on Arrival",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Spain",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Sweden",
+    "visa_required": "No (Schengen Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited (EU freedom of movement)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "Turkey",
+    "visa_required": "Yes (eVisa)",
+    "method": "Apply online (eVisa)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Switzerland",
+    "to": "UAE",
+    "visa_required": "No (Visa on Arrival)",
+    "method": "Visa on Arrival (30-day stay)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "Switzerland",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "Switzerland",
+    "to": "USA",
+    "visa_required": "Yes (ESTA)",
+    "method": "Apply online (ESTA for VWP)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "Turkey",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisitor or Visitor Visa)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Apply online (eTA or Visitor Visa)",
+    "stay_duration": 180
+  },
+  {
+    "from": "Turkey",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate",
+    "stay_duration": 30
+  },
+  {
+    "from": "Turkey",
+    "to": "Finland",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Denmark",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "France",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Turkey",
+    "to": "Germany",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Italy",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 180
+  },
+  {
+    "from": "Turkey",
+    "to": "Netherlands",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "Apply online (NZeTA)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Norway",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Apply online (e-Visa)",
+    "stay_duration": 30
+  },
+  {
+    "from": "Turkey",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate",
+    "stay_duration": 30
+  },
+  {
+    "from": "Turkey",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa or Visa on Arrival for tourists)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 30
+  },
+  {
+    "from": "Turkey",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Spain",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Sweden",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "Switzerland",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen Area)",
+    "stay_duration": 90
+  },
+  {
+    "from": "Turkey",
+    "to": "UAE",
+    "visa_required": "Yes",
+    "method": "Visa on arrival (30 days) or pre-arranged eVisa",
+    "stay_duration": 30
+  },
+  {
+    "from": "Turkey",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required (up to 6 months for tourism)",
+    "stay_duration": 180
+  },
+  {
+    "from": "Turkey",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "Apply at embassy/consulate (B1/B2 Visa)",
+    "stay_duration": 180
+  },
+  {
+    "from": "UAE",
+    "to": "Australia",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Australian embassy/consulate",
+    "stay_duration": "Up to 90 days (varies by visa type)"
+  },
+  {
+    "from": "UAE",
+    "to": "Brazil",
+    "visa_required": "No",
+    "method": "Visa not required for tourism",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Canada",
+    "visa_required": "Yes",
+    "method": "Apply online or at Canadian embassy/consulate",
+    "stay_duration": "Up to 6 months (varies by visa)"
+  },
+  {
+    "from": "UAE",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Up to 30-90 days (depends on visa type)"
+  },
+  {
+    "from": "UAE",
+    "to": "Finland",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "Denmark",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "France",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "India",
+    "visa_required": "Yes",
+    "method": "Apply online (eVisa) or at Indian embassy",
+    "stay_duration": "Up to 30-90 days (eVisas vary)"
+  },
+  {
+    "from": "UAE",
+    "to": "Germany",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Italy",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Netherlands",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "New Zealand",
+    "visa_required": "Yes",
+    "method": "Apply online (NZeTA) or at embassy",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Norway",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Visa on arrival or apply online (eVisa)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "UAE",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Up to 30 days (varies by visa)"
+  },
+  {
+    "from": "UAE",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes",
+    "method": "eVisa or visa on arrival (for tourism)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 30 days"
+  },
+  {
+    "from": "UAE",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Spain",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "Sweden",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "Switzerland",
+    "visa_required": "No",
+    "method": "Visa not required (Schengen area)",
+    "stay_duration": "Up to 90 days in 180-day period"
+  },
+  {
+    "from": "UAE",
+    "to": "Turkey",
+    "visa_required": "No",
+    "method": "eVisa (apply online before travel)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UAE",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "UAE",
+    "to": "USA",
+    "visa_required": "Yes",
+    "method": "Apply at US embassy/consulate (B1/B2 visa)",
+    "stay_duration": "Up to 6 months (varies by visa officer)"
+  },
+  {
+    "from": "UK",
+    "to": "Australia",
+    "visa_required": "Yes (eVisitor)",
+    "method": "Online application (eVisitor visa)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "Brazil",
+    "visa_required": "No (for tourism up to 90 days)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "Canada",
+    "visa_required": "Yes (ETA/eTA)",
+    "method": "Online application (Electronic Travel Authorization)",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "UK",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Apply at Chinese embassy/consulate",
+    "stay_duration": "Usually 30-90 days (depends on visa type)"
+  },
+  {
+    "from": "UK",
+    "to": "Finland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Denmark",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "France",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Online application (e-Visa)",
+    "stay_duration": "30, 90, or 180 days (depends on visa type)"
+  },
+  {
+    "from": "UK",
+    "to": "Germany",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Ireland",
+    "visa_required": "No (Common Travel Area)",
+    "method": "Visa not required",
+    "stay_duration": "Unlimited"
+  },
+  {
+    "from": "UK",
+    "to": "Italy",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "New Zealand",
+    "visa_required": "Yes (NZeTA)",
+    "method": "Online application (NZeTA)",
+    "stay_duration": "Up to 6 months"
+  },
+  {
+    "from": "UK",
+    "to": "Norway",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Pakistan",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Online application (e-Visa) or embassy",
+    "stay_duration": "30-90 days (depends on visa type)"
+  },
+  {
+    "from": "UK",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Apply at Russian embassy/consulate",
+    "stay_duration": "Up to 30 days (tourist visa)"
+  },
+  {
+    "from": "UK",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Online application (e-Visa)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "Spain",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Sweden",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen area)",
+    "method": "Visa not required",
+    "stay_duration": "Up to 90 days in 180 days"
+  },
+  {
+    "from": "UK",
+    "to": "Turkey",
+    "visa_required": "Yes (e-Visa)",
+    "method": "Online application (e-Visa)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "UK",
+    "to": "UAE",
+    "visa_required": "No (Visa on arrival)",
+    "method": "Visa on arrival (30-day free visa)",
+    "stay_duration": "Up to 30 days (extendable)"
+  },
+  {
+    "from": "UK",
+    "to": "USA",
+    "visa_required": "Yes (ESTA for visa waiver)",
+    "method": "Online application (ESTA)",
+    "stay_duration": "Up to 90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Australia",
+    "visa_required": "Yes (Electronic Travel Authority)",
+    "method": "Online (ETA)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Brazil",
+    "visa_required": "No (as of 2024)",
+    "method": "Not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Canada",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "180 days"
+  },
+  {
+    "from": "USA",
+    "to": "China",
+    "visa_required": "Yes",
+    "method": "Embassy/Consulate application",
+    "stay_duration": "30-90 days (depending on visa type)"
+  },
+  {
+    "from": "USA",
+    "to": "Finland",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "Denmark",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "France",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "India",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Online (e-Visa) or Embassy",
+    "stay_duration": "30-180 days (depending on visa type)"
+  },
+  {
+    "from": "USA",
+    "to": "Germany",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "Ireland",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Italy",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "Israel",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Mexico",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "180 days"
+  },
+  {
+    "from": "USA",
+    "to": "Netherlands",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "Japan",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "New Zealand",
+    "visa_required": "No (NZeTA required)",
+    "method": "Online (NZeTA)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Norway",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "Pakistan",
+    "visa_required": "Yes",
+    "method": "Embassy application or e-Visa",
+    "stay_duration": "30 days (e-Visa)"
+  },
+  {
+    "from": "USA",
+    "to": "Russia",
+    "visa_required": "Yes",
+    "method": "Embassy/Consulate application",
+    "stay_duration": "30 days (typical tourist visa)"
+  },
+  {
+    "from": "USA",
+    "to": "Saudi Arabia",
+    "visa_required": "Yes (e-Visa available)",
+    "method": "Online or Visa on Arrival",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Singapore",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "South Africa",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Spain",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "Sweden",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "South Korea",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "Switzerland",
+    "visa_required": "No (Schengen Area)",
+    "method": "Not required",
+    "stay_duration": "90 days in 180-day period"
+  },
+  {
+    "from": "USA",
+    "to": "Turkey",
+    "visa_required": "Yes (e-Visa)",
+    "method": "Online (e-Visa)",
+    "stay_duration": "90 days"
+  },
+  {
+    "from": "USA",
+    "to": "UAE",
+    "visa_required": "No",
+    "method": "Visa on Arrival",
+    "stay_duration": "30 days"
+  },
+  {
+    "from": "USA",
+    "to": "UK",
+    "visa_required": "No",
+    "method": "Not required",
+    "stay_duration": "180 days"
+  }
+]
